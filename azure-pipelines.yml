@@ -8,8 +8,7 @@ pr:
     include:
     - '*'
 
-pool:
-  vmImage: ubuntu-latest
+pool: default
 
 steps:
 - script: echo Hello, world!
