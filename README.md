@@ -1,4 +1,1 @@
-a
-t
-e
-m
+test
