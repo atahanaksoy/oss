@@ -6,6 +6,13 @@
 trigger:
 - master
 
+resources:
+  repositories:
+  - repository: adotest
+    type: github
+    name: atahanaksoy/adotest
+    endpoint: MyFirstProject
+
 pool: default
 
 steps:
